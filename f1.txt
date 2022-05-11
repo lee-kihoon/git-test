@@ -1,1 +1,2 @@
 fileName: f1
+fileType: txt
